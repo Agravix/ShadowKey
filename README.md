@@ -1,5 +1,9 @@
 # ShadowKey
 
+<p align="center">
+  <img src="images/dashboard.png" alt="ShadowKey Dashboard" width="900">
+</p>
+
 > A web-based keystroke monitoring project for **cybersecurity education, malware analysis, and authorized security testing**.
 
 > **⚠️ Disclaimer**
